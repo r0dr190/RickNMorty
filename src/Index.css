@@ -1,0 +1,19 @@
+.cards{
+
+    /* display: grid; */
+    /* grid-template-columns: repeat(4, 1fr); */
+    /* width: 30%; */
+    /* height: 100vh; */
+    /* grid-template-rows: repeat(5, 1fr); */
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+    display: inline-block;
+}
+
+/* .card{
+
+    display: flex;
+    justify-content: space-around;
+} */
+
